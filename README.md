@@ -1,1 +1,1 @@
-# ReZeroWiki
+# reWiki
